@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <integer name="lineOneStart">30</integer>
+  <integer name="lineTwoStart">70</integer>
+  <bool name="expanded"  >false</bool>
+</resources>

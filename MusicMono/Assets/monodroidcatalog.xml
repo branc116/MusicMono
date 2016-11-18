@@ -1,0 +1,6 @@
+<SchemaCatalog xmlns="http://schemas.microsoft.com/xsd/catalog">
+  <Schema href="%InstallRoot%/xml/schemas/android-layout-xml.xsd" />
+  <Schema href="%InstallRoot%/xml/schemas/schemas.android.com.apk.res.android.xsd" targetNamespace="http://schemas.android.com/apk/res/android" />
+
+  <Association extension="axml" schema="%InstallRoot%/xml/schemas/android-layout-xml.xsd" />
+</SchemaCatalog>

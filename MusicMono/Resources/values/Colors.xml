@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Light Blue
+500 #03A9F4
+50#E1F5FE
+100#B3E5FC
+200#81D4FA
+300#4FC3F7
+400#29B6F6
+500#03A9F4
+600#039BE5
+700#0288D1
+800#0277BD
+900#01579B
+A100#80D8FF
+A200#40C4FF
+A400#00B0FF
+A700#0091EA-->
+<resources>
+  <color name="primaryDark">#0D47A1</color>
+  <color name="primaryLight">#E3F2FD</color>
+  <color name="primary">#2979FF</color>
+  <color name="accentDark">#2962FF</color>
+  <color name="accentLight">#82B1FF</color>
+  <color name="accent">#2979FF</color>
+  
+  
+</resources>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--@dimen/{name}-->
+<resources>
+  <dimen name="CardPaddingHorizontal">3dp</dimen>
+  <dimen name="CardPaddingVertical">2dp</dimen>
+  <dimen name="CardCornerRadius">3dp</dimen>
+  <dimen name="CardElevation">10dp</dimen>
+  <dimen name="CardHeight">120dp</dimen>
+  <dimen name="TitlePaddingTop">16dp</dimen>
+  <dimen name="TitleTextSize">24sp</dimen>
+  <dimen name="SubtitleTextSize">14sp</dimen>
+</resources>

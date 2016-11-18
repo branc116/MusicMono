@@ -1,0 +1,17 @@
+﻿----Primary objective----
+    --Captain's log stardate 2.11.2016.--
+        I'm trying to solve a problem of downloading and searching for music, albums, ...
+        First iteration was only searching youtube videos for music and that works well, except I can't get any info on the song, because there is no metadata with the song
+        My second idea is to search online music database, specifically Last.fm to get some solid info on the song, like, who wrote it, what album was it released in, ect.. and then download it on the youtube by searching the exact name on the youtube and giving user the freedom of choosing which version they want.
+        Now I'm Making this more generic, defining base classes, ect. 
+        After that I need to implement Sqlite DB to keep track of downloaded songs, albums, ect.
+        And I need to learn about making nice UI in Xamarin.Forms, or Xamarin.Android and Xamarin.IOS and Xamarin.UWP I'm still not sure which path to choose, currently I only have Xamarin.Android design which is quite ugly, but it works...
+
+
+----Secondary objective----
+    --Captain's log stardate 2.11.2016.--
+        My secondary mission with this project is to create RAT that will work on all 3 platform: Android, IOS, WinPhone.
+        Focus is on Android.
+        Current solution is quite ugly and I need to change it.
+        I implemented my own client/server system (css) where client is taking orders from server (Me :) )
+        I'm thinking of implementing css using SignlaR, but I'm afraid of compatibility issues, I must test it.
